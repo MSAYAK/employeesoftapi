@@ -1,0 +1,154 @@
+{
+	"employees": [
+		{
+			"id": "EMP10001",
+			"name": "John Doe",
+			"designation": "Software Engineer",
+			"department": "Engineering",
+			"salary": {
+				"base": 70000,
+				"bonus": 5000,
+				"allowances": 3000,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2021-02-15"
+		},
+		{
+			"id": "EMP10002",
+			"name": "Jane Smith",
+			"designation": "Senior Developer",
+			"department": "Engineering",
+			"salary": {
+				"base": 90000,
+				"bonus": 8000,
+				"allowances": 4000,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2020-11-01"
+		},
+		{
+			"id": "EMP10003",
+			"name": "Robert Brown",
+			"designation": "QA Analyst",
+			"department": "Quality Assurance",
+			"salary": {
+				"base": 60000,
+				"bonus": 3000,
+				"allowances": 2500,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2022-01-20"
+		},
+		{
+			"id": "EMP10004",
+			"name": "Emily Johnson",
+			"designation": "Project Manager",
+			"department": "Project Management",
+			"salary": {
+				"base": 105000,
+				"bonus": 10000,
+				"allowances": 5000,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2019-07-10"
+		},
+		{
+			"id": "EMP10005",
+			"name": "Michael Davis",
+			"designation": "DevOps Engineer",
+			"department": "Infrastructure",
+			"salary": {
+				"base": 85000,
+				"bonus": 6000,
+				"allowances": 3500,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2021-06-05"
+		},
+		{
+			"id": "EMP10006",
+			"name": "Sarah Miller",
+			"designation": "UX Designer",
+			"department": "Design",
+			"salary": {
+				"base": 75000,
+				"bonus": 4000,
+				"allowances": 2800,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2020-03-18"
+		},
+		{
+			"id": "EMP10007",
+			"name": "David Wilson",
+			"designation": "Technical Lead",
+			"department": "Engineering",
+			"salary": {
+				"base": 110000,
+				"bonus": 12000,
+				"allowances": 6000,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2018-10-22"
+		},
+		{
+			"id": "EMP10008",
+			"name": "Olivia Martinez",
+			"designation": "Business Analyst",
+			"department": "Business Analysis",
+			"salary": {
+				"base": 80000,
+				"bonus": 4500,
+				"allowances": 3200,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2021-12-01"
+		},
+		{
+			"id": "EMP10009",
+			"name": "Daniel Anderson",
+			"designation": "Data Scientist",
+			"department": "Data Science",
+			"salary": {
+				"base": 95000,
+				"bonus": 9000,
+				"allowances": 4200,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2022-05-25"
+		},
+		{
+			"id": "EMP10010",
+			"name": "Sophia Taylor",
+			"designation": "HR Manager",
+			"department": "Human Resources",
+			"salary": {
+				"base": 78000,
+				"bonus": 3500,
+				"allowances": 2600,
+				"currency": "USD",
+				"payment_frequency": "Monthly"
+			},
+			"employment_status": "Full-time",
+			"joining_date": "2019-09-30"
+		}
+	]
+}
